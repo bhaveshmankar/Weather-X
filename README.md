@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## WeatherX | Live Weather - React App
 
 ### [Demo Link](https://weatherx-live.netlify.app/) 🔗
@@ -35,3 +36,6 @@ Live Weather Searching React App, built with the help of **OpenWeather API**.
 ## License:
 
 This project is licensed under the  **GPL-3.0 License** - see the [LICENSE](LICENSE.md) file for details.
+=======
+# Weather-X
+>>>>>>> d09984bc04659e65467918cd4cf5838ab9de88fc
