@@ -1,4 +1,4 @@
-### [Demo Link](https://weatherx-three.vercel.app/) 🔗
+### [Demo Link](https://weatherx-eosin.vercel.app/) 🔗
 
 Live Weather Searching React App, built with the help of **OpenWeather API**.
 
